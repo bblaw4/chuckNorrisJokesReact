@@ -1,2 +1,0 @@
-# chuckNorrisJokesReact
-Created with CodeSandbox
